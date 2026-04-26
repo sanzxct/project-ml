@@ -40,3 +40,12 @@ Untuk mereplikasi environment ini di perangkat Anda, ikuti langkah-langkah berik
 1. Clone repositori ini:
    ```bash
    git clone [URL_REPOSI_ANDA]
+   cd [NAMA_FOLDER]
+
+2. Buat environment berdasarkan file .yml:
+   ```bash
+   conda env create -f environment.yml
+
+3. Aktifkan environment:
+   ```bash
+   conda activate praktikum-ml
