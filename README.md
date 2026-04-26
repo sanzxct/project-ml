@@ -15,7 +15,8 @@ Repositori ini disusun secara sistematis sesuai dengan urutan materi pertemuan p
 * **00-Memulai Olah Data**: Pengenalan manipulasi data dasar menggunakan `Tab.csv` dan pengoperasian Jupyter Notebook. Terdapat file `Latihan1.ipynb` sebagai hasil eksperimen mandiri.
 * **01-Memuat dan Menelaah Data**: Teknik pembacaan dataset eksternal, termasuk analisis data `epl-goalScorer(20-21).csv`.
 * **02-Visualisasi Data**: Implementasi pustaka Matplotlib untuk representasi data grafis.
-* **03 s.d. 22 Preprocessing**: Modul lanjutan yang mencakup Data Cleaning, Categorical Encoding, One-Hot Encoding, hingga transformasi data.
+* **3-Exploratory Data Analysis (EDA)**: Latihan mendalam menggunakan dataset automobileEDA.csv untuk memahami korelasi fitur dan distribusi harga kendaraan.
+* **04 s.d. 22 Preprocessing**: Modul lanjutan yang mencakup Data Cleaning, Categorical Encoding, One-Hot Encoding, hingga transformasi data.
 * **environment.yml**: File konfigurasi environment untuk menjamin konsistensi library yang digunakan.
 
 ## Spesifikasi Environment
@@ -29,6 +30,7 @@ Seluruh kode dalam repositori ini dikembangkan dan dijalankan dengan spesifikasi
     - NumPy (Komputasi Numerik)
     - SciPy (Analisis Statistik)
     - Matplotlib (Visualisasi Data)
+    - Seaborn (Visualisasi data statistik tingkat lanjut)
 
 
 
